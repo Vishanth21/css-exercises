@@ -11,7 +11,7 @@ Issues with the cascade can be the bane of their existence for many when it come
 ## Desired Outcome
 
 ![desired outcome](./desired-outcome.png)
-
+https://vishanth21.github.io/css-exercises/foundations/cascade/01-cascade-fix/index.html
 ### Self Check
 
 - Did you make sure to not edit the HTML file?
