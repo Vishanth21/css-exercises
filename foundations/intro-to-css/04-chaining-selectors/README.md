@@ -14,7 +14,7 @@ The properties you need to add to each element are:
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
-
+https://vishanth21.github.io/css-exercises/foundations/intro-to-css/04-chaining-selectors/index.html
 ### Self Check
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
