@@ -17,7 +17,7 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
-
+https://vishanth21.github.io/css-exercises/foundations/intro-to-css/02-class-id-selectors/index.html
 
 ### Self Check
 - Do the odd numbered `p` elements share a class?
