@@ -11,7 +11,9 @@ This will help you further practice adding classes and using class selectors, so
 ## Desired Outcome
 
 ![desired outcome](./desired-outcome.png)
+ 
 
+https://vishanth21.github.io/css-exercises/foundations/intro-to-css/03-grouping-selectors/index.html
 ### Self Check
 
 - Does each element have a unique class name?
