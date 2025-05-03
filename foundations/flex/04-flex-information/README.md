@@ -8,6 +8,8 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 
 ![desired outcome](./desired-outcome.png)
 
+https://vishanth21.github.io/css-exercises/foundations/flex/04-flex-information/index.html
+
 ### Self Check
 
 - All items are centered on the page (horizontally, not vertically).
