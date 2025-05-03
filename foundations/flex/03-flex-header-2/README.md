@@ -13,6 +13,8 @@ As with the last example, this one needs to be flexible in the middle, with item
 
 ![gif](./desired-outcome.gif)
 
+https://vishanth21.github.io/css-exercises/foundations/flex/03-flex-header-2/index.html
+
 ### Self Check
 - Everything is centered vertically inside the header.
 - There is 8px space between everything and the edge of the header.
