@@ -10,6 +10,8 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
 
+https://vishanth21.github.io/css-exercises/foundations/flex/06-flex-layout/index.html
+
 ### Self Check
 
 - The header is at the top of the page, the footer is at the bottom, and they stay in place if you resize your screen.
