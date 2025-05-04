@@ -14,6 +14,8 @@ As with the previous exercise, we've left a little more for you to do.
 
 ![desired outcome](./desired-outcome.png)
 
+https://vishanth21.github.io/css-exercises/foundations/flex/07-flex-layout-2/index.html
+
 The number of cards lined up in that section will change based on the width of your screen, so don't stress about getting _exactly_ a 2x3 or 3x2 grid.
 
 On a smaller screen it will look like this:
