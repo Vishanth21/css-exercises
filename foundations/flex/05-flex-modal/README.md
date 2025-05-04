@@ -8,6 +8,8 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 
 ![desired outcome](./desired-outcome.png)
 
+https://vishanth21.github.io/css-exercises/foundations/flex/05-flex-modal/index.html
+
 ### Self Check
 
 - The blue icon is aligned to the left.
